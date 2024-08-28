@@ -1,5 +1,5 @@
 # 💫 About Me:
- I Am Currently Working on Web Devolopment<br>Learning New Technologies
+ I am Currently Working on Web Devolopment<br>Learning New Technologies
 
 
 ## 🌐 Socials:
