@@ -1,4 +1,4 @@
-# 💫 About ee:
+# 💫 About Me:
  I am Currently Working on Web Devolopment<br>Learning New Technologies
 
 
