@@ -2,7 +2,7 @@
 ### <div align="center">I'm Nihal</div>  
   
 
-- 🔭 I’m currently working Web Devolopment      
+- 🔭Python enthusiast
   
 
 <br/>  
