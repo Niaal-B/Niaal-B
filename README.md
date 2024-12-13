@@ -44,7 +44,7 @@ I'm a passionate developer with a love for creating efficient and scalable solut
 
 <div align="center">
   <a href="https://github.com/Niaal-B/your-awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niaal-B&repo=your-awesome-project&theme=tokyonight" alt="Project Showcase" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niaal-B&repo=Evara-Ecommerce&theme=tokyonight" alt="Project Showcase" />
   </a>
 </div>
 
