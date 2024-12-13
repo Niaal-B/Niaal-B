@@ -26,21 +26,7 @@ I'm a passionate Python enthusiast with a strong background in web development a
 </div>
 </td></tr></table>  
 
-## 🌟 Projects Highlight
-### FastAPI Projects
-I specialize in building high-performance APIs using FastAPI. Some key features of my FastAPI expertise include:
-- Asynchronous API development
-- OpenAPI (Swagger) documentation
-- Pydantic data validation
-- Dependency injection
-- Authentication and security implementations
 
-### 💡 Key Strengths
-- Python Backend Development
-- RESTful API Design
-- Containerization with Docker
-- Kubernetes Orchestration
-- Continuous Integration/Continuous Deployment (CI/CD)
 
 ## 📊 GitHub Stats  
 <div align="center">
