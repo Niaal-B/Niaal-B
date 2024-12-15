@@ -81,4 +81,4 @@ I'm a passionate developer with a love for creating efficient and scalable solut
 - 🤖 Passionate about building scalable backend solutions
 - 🔬 Always learning and experimenting with new technologies
 
-*Crafting code, solving problems, and pushing boundaries* 🚀
+*Crafting code, solving problems, and pushing boundaries* 
