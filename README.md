@@ -40,7 +40,7 @@ I'm a passionate developer with a love for creating efficient and scalable solut
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niaal-B&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/Niaal-B/your-awesome-project">
