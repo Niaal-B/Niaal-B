@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Python+Enthusiast+%7C+Backend+Developer+%7C" alt="Typing SVG" />
 </div>
-
+ 
 ## About Me
 
 I'm a passionate developer with a love for creating efficient and scalable solutions. My journey in tech is driven by curiosity and a constant desire to learn and grow.
