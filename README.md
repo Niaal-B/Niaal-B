@@ -1,4 +1,4 @@
-  # 👋 Hey there! I'm Nihal  
+ # 👋 Hey there! I'm Nihal  
   
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Python+Enthusiast+%7C+Backend+Developer+%7C" alt="Typing SVG" />
