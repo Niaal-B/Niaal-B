@@ -1,14 +1,19 @@
-# 👋 Hey there! I'm Nihal  
-    
+# { "dev": "Nihal" }
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Python+Enthusiast" alt="Typing SVG" />
 </div>
-   
-## About Me
- 
-I'm a passionate developer with a love for creating efficient and scalable solutions. My journey in tech is driven by curiosity and a constant desire to learn and grow.
 
-## 🛠️ Tech Arsenal
+## ```json { "about": "me" }```
+
+```json
+{
+  "description": "A passionate developer with a love for creating efficient and scalable solutions",
+  "motivation": "Journey in tech driven by curiosity and a constant desire to learn and grow"
+}
+```
+
+## ```json { "tech": "arsenal" }```
 
 <div align="center">
   <table>
@@ -29,7 +34,7 @@ I'm a passionate developer with a love for creating efficient and scalable solut
   </table>
 </div>
 
-## 📊 My GitHub Journey
+## ```json { "github": "journey" }```
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Niaal-B&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -40,7 +45,7 @@ I'm a passionate developer with a love for creating efficient and scalable solut
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niaal-B&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
-## Featured Projects
+## ```json { "featured": "projects" }```
 
 <div align="center">
   <a href="https://github.com/Niaal-B/your-awesome-project">
@@ -48,7 +53,7 @@ I'm a passionate developer with a love for creating efficient and scalable solut
   </a>
 </div>
 
-## 🌐 Let's Connect!
+## ```json { "lets": "connect" }```
 
 <div align="center">
   <a href="https://linkedin.com/in/Nihal B" target="_blank">
@@ -62,7 +67,7 @@ I'm a passionate developer with a love for creating efficient and scalable solut
   </a>
 </div>
 
-## 👀 Profile Views
+## ```json { "profile": "views" }```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Niaal-B&color=blueviolet" alt="Profile Views" />
@@ -74,11 +79,17 @@ I'm a passionate developer with a love for creating efficient and scalable solut
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </div>
 
-## 💡 Quick Facts About Me
+## ```json { "quick": "facts" }```
 
-- 🐍 Python is my primary programming language
-- 🌱 Currently exploring advanced FastAPI techniques
-- 🤖 Passionate about building scalable backend solutions
-- 🔬 Always learning and experimenting with new technologies
+```json
+{
+  "skills": {
+    "primary_language": "Python",
+    "current_focus": "Advanced FastAPI techniques",
+    "passion": "Building scalable backend solutions",
+    "approach": "Always learning and experimenting with new technologies"
+  }
+}
+```
 
-*Crafting code, solving problems, and pushing boundaries* 
+*Crafting code, solving problems, and pushing boundaries*
