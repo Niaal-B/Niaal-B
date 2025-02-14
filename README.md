@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </div>
 
 <h2 align="center">💡 Quick Facts</h2>
