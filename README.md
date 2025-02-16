@@ -23,7 +23,7 @@
       </td>
       <td align="center" width="33%">
         <h3>🚀 DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux" />
+        <img src="https://skillicons.dev/icons?i=docker,git,linux" />
       </td>
     </tr>
   </table>
