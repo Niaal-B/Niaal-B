@@ -1,11 +1,11 @@
-<h1 align="center">✨ Hello World, I'm Nihal! ✨</h1>
+<h1 align="center">I'm Nihal!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Python+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  A passionate developer with a love for creating efficient and scalable solutions. My journey in tech is driven by curiosity and a constant desire to learn and grow.
+  A passionate developer with a love for creating efficient and scalable solutions
 </p>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
