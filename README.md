@@ -1,32 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Nihal!</span></h1>
-
-<p align="center">
-  🚀 A passionate <b>Software Developer</b> focused on building <b>scalable</b>, <b>efficient</b>, and <b>impactful</b> solutions.
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🎨 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
-      </td>
-      <td align="center" width="33%">
-        <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🚀 DevOps & Tools</h3>
-        <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,vscode" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<h1 align="center">I'm <span style="color:#00BFFF;">Nihal!</span></h1>
 ---
 
 <h2 align="center">📈 My GitHub Journey</h2>
@@ -40,17 +12,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Niaal-B&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
----
-
-<h2 align="center">🌟 Featured Project</h2>
-
-<div align="center">
-  <a href="https://github.com/Niaal-B/Evara-Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niaal-B&repo=Evara-Ecommerce&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Project Showcase" />
-  </a>
-</div>
-
----
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
@@ -68,28 +29,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-<h2 align="center">👀 Visitor Count</h2>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niaal-B&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<h2 align="center">💡 Quick Facts</h2>
-
-<p align="center">
-  🐍 Python is my go-to language<br>
-  🌱 Currently exploring advanced FastAPI & system design<br>
-  ⚡ Love solving backend challenges and optimizing performance<br>
-  🔬 Curious about scalable microservice architectures<br>
-  💬 Open for collaboration and mentorship projects
-</p>
-
-<p align="center"><i>"Crafting clean code, designing smart systems, and learning endlessly."</i></p>
 
 ---
 
