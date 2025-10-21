@@ -1,5 +1,4 @@
 <h1 align="center">I'm <span style="color:#00BFFF;">Nihal!</span></h1>
----
 
 <h2 align="center">📈 My GitHub Journey</h2>
 
